@@ -129,9 +129,7 @@ struct private_handle_t {
   uint64_t base;
   uint64_t base_metadata;
   uint64_t gpuaddr;
-#ifdef GRALLOC_HANDLE_HAS_RESERVED_SIZE
   unsigned int reserved_size;
-#endif
 #ifdef __cplusplus
   static const int kNumFds = 2;
   static const int kMagic = 'gmsm';
