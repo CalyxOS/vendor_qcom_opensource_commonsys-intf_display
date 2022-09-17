@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bcef8a18_fa8f0aad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-17T00:20:31Z",
+      "side": 1,
+      "message": "Ship this and revert later when fixing properly?\n\nWould this break: bonito, crosshatch, sunfish, FP4?",
+      "revId": "7d616b7e8dc2573a513ecbfb35632c90959345ab",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
